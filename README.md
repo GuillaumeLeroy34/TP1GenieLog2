@@ -1,9 +1,3 @@
-# TP1GenieLog2
+# TPGenieLog1 
 
-
-// read me initial sans modifications
-
-
-// read me avec une modification
-
-ze
+// rid pmi
